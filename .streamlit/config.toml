@@ -1,0 +1,19 @@
+# Streamlit config per Privacy Filter GUI
+
+[server]
+headless = true
+port = 8501
+address = "0.0.0.0"
+maxUploadSize = 50
+enableCORS = false
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "dark"
+primaryColor = "#3b82f6"
+backgroundColor = "#0f172a"
+secondaryBackgroundColor = "#1e293b"
+textColor = "#f1f5f9"
