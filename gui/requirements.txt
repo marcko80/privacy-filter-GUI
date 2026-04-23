@@ -2,3 +2,5 @@ streamlit>=1.32
 torch>=2.2
 transformers>=4.44
 accelerate>=0.30
+pypdf>=4.0
+python-docx>=1.1
